@@ -1,0 +1,3 @@
+[submodule "ekene"]
+	path = ekene
+	url = https://github.com/mathewtechhub/ekene
